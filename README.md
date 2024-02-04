@@ -2,7 +2,9 @@
 
 It is an **automated software** which will generate the Railway Station Announcement by maintaining a database of required information in an excel sheet.
 
-![Cover Image](https://user-images.githubusercontent.com/68781375/125184803-67aa5d00-e23e-11eb-9b81-15924a3fbf6b.jpg)
+## Demo Video
+
+https://github.com/muditmathur2020/Indian-Railway-Announcement/assets/42760941/81760252-ccb3-4551-a56f-924f14b622d1
 
 ## Announcement Languages 
 
@@ -39,10 +41,6 @@ Announcement is generated in the below three languages:
 * And then finally merge that generated text to speech audio files with the trimmed audio files according to our database and name that combined audio file as Announcement_TrainNumber.
 
 * At the last, delete all intermediate seperate audio files to free up the unnecessary space occupied.
-
-## Demo Video
-
-https://github.com/muditmathur2020/Indian-Railway-Announcement/assets/42760941/81760252-ccb3-4551-a56f-924f14b622d1
 
 ## Conclusion
 
